@@ -10,7 +10,7 @@ To learn more about the algorithms, you may require to start with a machine lear
 To get a copy of the notebooks, run the following command in your terminal;
 
 ```shell
-git clone https://github.com/ogunlao/ammi-ml.git foundations_of_ml
+git clone https://github.com/ogunlao/foundations_of_ml
 ```
 
 The code above fetches the `ammi-ml` repository and renames it to `foundations_of_ml` in your current directory.
