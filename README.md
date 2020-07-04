@@ -5,7 +5,7 @@ This repo contains Jupyter notebooks implementing various machine learning algor
 
 ## Getting started
 
-To learn more about the algorithms, you may require to start with a machine learning book. I wrote a [Foundations of Machine Learning Note](https://github.com/ogunlao/foundations-of-machine-learning-notes/blob/master/foundations_of_ml.pdf) during my course which might be helpful.
+To learn more about the algorithms, you may require to start with a machine learning book. I wrote a [Foundations of Machine Learning Note](https://github.com/ogunlao/foundations-of-machine-learning-notes/blob/master/foundations_of_ml.pdf) during the course which might be helpful.
 
 To get a copy of the notebooks, run the following command in your terminal;
 
@@ -13,7 +13,7 @@ To get a copy of the notebooks, run the following command in your terminal;
 git clone https://github.com/ogunlao/foundations_of_ml
 ```
 
-The code above fetches the `ammi-ml` repository and renames it to `foundations_of_ml` in your current directory.
+The code above fetches the `foundations_of_ml` repository and saves it into `foundations_of_ml` in your current directory.
 
 ## Algorithms covered
 
